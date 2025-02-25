@@ -1,1 +1,4 @@
 /* Aquí se pone todo el css */
+p {
+    font-weight: bold;
+}
